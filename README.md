@@ -1,1 +1,3 @@
-# Grocery_-Store-Modern_Application_Development-I
+# Grocery_Store_Site-Modern_Application_Development-I
+
+It is a multi-user app(one required admin/store manager and other users). Used for buying and selling groceries. User can buy many products for one or multiple sections. Store manager can add section/category and products.
